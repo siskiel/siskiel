@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siskiel
-- 👀 I’m interested in Quality Assurance And Web Development
+- 👀 I’m interested in Quality Assurance and Web Development
 - 🌱 I’m currently learning Selenium and Katalon 
 - 📫 https://www.linkedin.com/in/siski-elvini-4838361b0/
 
